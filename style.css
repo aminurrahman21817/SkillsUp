@@ -1,0 +1,31 @@
+body{
+	background: url(images/rheinWaal1.jpeg) no-repeat center center fixed;
+	webkit-background-size: cover;
+  	moz-background-size: cover;
+    o-background-size: cover;
+  	background-size: cover;
+  	opacity:25; 
+  }
+
+a{
+	text-decoration: none;
+	font-family: 'Dancing Script', cursive;
+
+}
+
+#logo{
+	font-family: 'Lobster', cursive;
+	font-size: 50px;
+	color: #187a1a
+}
+
+#navbar{
+	font-family: 'Dokdo', cursive;
+	font-size: 30px;
+	
+}
+
+#buttons{
+	font-color: #187a1a;
+}
+
