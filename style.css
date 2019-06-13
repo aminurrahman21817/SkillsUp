@@ -14,6 +14,11 @@ a{
 
 }
 
+button{
+	text-decoration: none;
+	font-family: 'Dancing Script', cursive;
+}
+
 #logo{
 	font-family: 'Lobster', cursive;
 	font-size: 50px;
@@ -27,7 +32,13 @@ a{
 }
 
 #buttons{
-	font-color: #187a1a;
+	font-color: black;
+	font-size: 30px;
+}
+
+#about{
+	float: center;
+	margin-left: 110px;
 }
 
 

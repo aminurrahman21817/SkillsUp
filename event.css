@@ -4,7 +4,7 @@ body{
   	moz-background-size: cover;
     o-background-size: cover;
   	background-size: cover;
-  	opacity:25; 
+  
   }
 
 a{
@@ -20,6 +20,8 @@ a{
 	color: #187a1a
 }
 
+
+
 #navbar{
 	font-family: 'Dokdo', cursive;
 	font-size: 30px;
@@ -28,6 +30,7 @@ a{
 
 #buttons{
 	font-color: #187a1a;
+	font-size: 30px;
 }
 
 
